@@ -2,7 +2,7 @@
 /**
  *  Plugin Name: Aller HTTP_X_FORWARDED_FOR
  *  Description: Makes sure comments get correct ip, even when using Varnish.
- *  Version: 0.1a
+ *  Version: 1.0
  *  Author: Johannes Henrysson <johannes.henrysson@aller.se>, Aller Media AB
  *
  *  @package Wordpress 3
